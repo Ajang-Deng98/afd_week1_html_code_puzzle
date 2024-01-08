@@ -6,7 +6,7 @@
 To assess and enhance students' understanding of HTML structure, tags, and their ability to organize and collaborate on creating a well-structured HTML page using GitHub Classroom.
 
 **Instructions:**
-1. You will be given access to a GitHub Classroom repository containing an image with jumbled HTML code.
+1. The repository cloned via GitHub Classrooms contains an image with jumbled HTML code.
 2. Clone the repository to your local machine.
 3. Collaborate with your team members on GitHub to rearrange the HTML tags and create a well-structured HTML page.
 4. Utilize GitHub features such as branches and pull requests for effective collaboration and version control.
